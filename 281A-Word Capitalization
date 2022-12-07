@@ -1,0 +1,4 @@
+n = list(input())
+n[0] = n[0].upper()
+p = “”.join(n)
+print(p)
